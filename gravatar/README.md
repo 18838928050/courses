@@ -8,15 +8,3 @@ Redmine 点亮头像。
 1. 注册自己的 Gravatar 账户；
 2. 在 Gravatar 账户中，至少上传一张个人真实照片，并和自己常用邮箱绑定；
 
-## 课程大纲:books:
-
-1. 课程缘起  
-2. Gravatar 是什么？    
-3. 三步点亮 Redmine 头像        
-    - Step1：Redmine 系统设置，启用 Gravatar；   
-    - Step2：注册 Gravatar 账户；   
-    - Step3：上传头像；   
-4. 其他问题      
-    - Gravatar [注册邮箱](pic/sign_up_issue.png)的问题；  
-    - Gravatar 再次登录的问题；  
- 
